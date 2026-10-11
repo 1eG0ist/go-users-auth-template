@@ -1,4 +1,4 @@
-module refuel-api
+module go-users-auth-template
 
 go 1.27.0
 
